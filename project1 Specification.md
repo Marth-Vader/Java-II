@@ -1,11 +1,10 @@
 Project 1: Reading Data from Files
 
-Objectives:
-1. Read in and organize data from individual trials into a Java data structure
-2. Computer simple statistics over the trial
+Learning Objectives:
 
-Focus:
-1. Load in single trial
-2. Each row of data file consists of a single snapshot of the state of the infant.
-3. Each state consists of the 3D position of the left and right wrists.
-4. 50Hz x 5 minutes = 15k samples of state in each trial
+1. Parse structured data from a file
+2. Create objects using data parsed from a file
+3. Use mathematical transformations on Strings
+4. Implement mathematical functions in code
+5. Employ unit testing to ensure that different pieces of your code are functioning properly
+6. Provide proper documentation in Javadoc format
